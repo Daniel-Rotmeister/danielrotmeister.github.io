@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="index.md"><b>Home</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="research.md"><b>Research</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="events.md" style="text-decoration: none;"><b>Events</b></a>
+  <a href="/">Home</a> •
+  <a href="research">Research</a> •
+  <a href="events">Events</a>
 </p>
 
 <br>
