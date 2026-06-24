@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="index.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Home&textColor=000000" alt="Home"></a> &nbsp;•&nbsp;
-  <a href="research.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Research&textColor=000000" alt="Research"></a> &nbsp;•&nbsp;
-  <a href="events.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Events&textColor=000000" alt="Events"></a>
+  <a href="./index.md">Home</a> •
+  <a href="./research.md">Research</a> •
+  <a href="./events.md">Events</a>
 </p>
 
 <br>
