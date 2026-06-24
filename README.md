@@ -4,7 +4,7 @@
   <a href="events.md"><b>Events</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
 </p>
 
----
+
 
 <img align="left" width="400" src="danielphoto2026.jpeg" style="margin-right: 30px;">
 
