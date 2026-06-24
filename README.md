@@ -16,6 +16,6 @@ I am interested in Differential Geometry and Geometric Analysis, with a specific
  
  &#9642; **Stable email:** drotmeister@gmail.com
 <div align="center">
-  <br><br><br><br><br><br><br><br>
-  © 2026 Daniel Rotmeister <br><br>
+  <br>
+  © 2026 Daniel Rotmeister
 </div>
