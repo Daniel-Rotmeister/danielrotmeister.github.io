@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/-Home-00008B?style=flat" alt="Home"></a> &nbsp;•&nbsp;
-  <a href="research.md"><img src="https://img.shields.io/badge/-Research-00008B?style=flat" alt="Research"></a> &nbsp;•&nbsp;
-  <a href="events.md"><img src="https://img.shields.io/badge/-Events-00008B?style=flat" alt="Events"></a>
+  <a href="index.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Home&textColor=000000" alt="Home"></a> &nbsp;•&nbsp;
+  <a href="research.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Research&textColor=000000" alt="Research"></a> &nbsp;•&nbsp;
+  <a href="events.md"><img src="https://readme-mouseless.vercel.app/api/page?color=ffffff&text=Events&textColor=000000" alt="Events"></a>
 </p>
 
 <br>
