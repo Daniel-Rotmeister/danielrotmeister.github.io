@@ -1,6 +1,6 @@
-# Home 
+### Home 
 Some text here
-# Research interests
+### Research interests
 
 <div align="center">
   <br><br><br><br><br><br><br><br>
