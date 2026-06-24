@@ -3,7 +3,6 @@
   <a href="./research.md">Research</a> •
   <a href="./events.md">Events</a>
 </p>
-
 <br>
 <br>
 <img align="left" width="400" src="danielphoto2026.jpeg" style="margin-right: 30px;">
