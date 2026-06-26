@@ -1,4 +1,4 @@
-<h3>Publications and preprints</h3>
+<h2>Publications and preprints</h2>
 
-<h3>In preparation</h3>
+<h2>In preparation</h2>
 
