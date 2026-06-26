@@ -10,3 +10,7 @@
   <li><a href="https://sites.google.com/view/liecongress7">VII School and Workshop on Lie Theory</a>. Juiz de Fora, Brasil, 2021.</li>
   <li> <a href="https://impa.br/evento/33cbm/">33º Colóquio Brasileiro de Matemática</a>. Rio de Janeiro, Brasil, 2021. </li>
 </ul>
+<div align="center">
+  <br>
+  © 2026 Daniel Rotmeister
+</div>
