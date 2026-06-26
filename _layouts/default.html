@@ -24,7 +24,8 @@
     display: inline-block;
     font-size: 1.25em; /* <-- Esta linha aumenta o tamanho da letra */
     border-bottom: none !important; /* Esconde COMPLETAMENTE a linha cinza */
-    font-weight: normal; /* <-- Esta linha remove qualquer negrito automático */
+    font-weight: 400 !important; /* Forces standard weight, removing theme bold */
+    text-transform: none; /* Prevents themes from forcing uppercase bold *
   }
 
   a:hover {
