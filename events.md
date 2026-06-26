@@ -9,9 +9,6 @@ title: Página Inicial
 <h2>Events</h2>
 <ul style="list-style-type: square;">
   <li>Workshop Inaugural do Centro Brasileiro de Geometria. Campinas, Brasil, 2026.</li>
-  
-<ul style="list-style-type: square;">
-  <li> <a href="http://xtsunxet.usc.es/symmetry2025/">Symmetry and Shape</a>. Santiago de Compostela, Spain, 2025.</li>
-<ul style="list-style-type: square;">
-  
-  <li>Bridging Borders: International Geometric Analysis. São Paulo, Brasil, 2024. </li>
+  <li><a href="http://xtsunxet.usc.es/symmetry2025/">Symmetry and Shape</a>. Santiago de Compostela, Spain, 2025.</li>
+  <li>Bridging Borders: International Geometric Analysis. São Paulo, Brasil, 2024.</li>
+</ul>
