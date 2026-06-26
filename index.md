@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="./index">Home</a> •
-  <a href="./research">Research</a> •
-  <a href="./events">Events</a>
-</p>
-<br>
-<br>
 <img align="left" width="400" src="danielphoto2026.jpeg" style="margin-right: 30px;">
 
 <h3>About me</h3>
