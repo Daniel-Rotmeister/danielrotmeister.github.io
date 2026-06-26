@@ -12,4 +12,5 @@ title: Página Inicial
   <li><a href="http://xtsunxet.usc.es/symmetry2025/">Symmetry and Shape</a>. Santiago de Compostela, Spain, 2025.</li>
   <li>Bridging Borders: International Geometric Analysis. São Paulo, Brasil, 2024.</li>
   <li><a href="https://sites.google.com/view/liecongress7">VII School and Workshop on Lie Theory</a>. Juiz de Fora, Brasil, 2021.</li>
+  <li> <a href="https://impa.br/evento/33cbm/">33º Colóquio Brasileiro de Matemática</a>. Rio de Janeiro, Brasil, 2021. </li>
 </ul>
